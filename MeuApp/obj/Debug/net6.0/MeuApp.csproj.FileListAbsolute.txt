@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\bin\Debug\net6.0\MeuApp.exe
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\bin\Debug\net6.0\MeuApp.deps.json
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\bin\Debug\net6.0\MeuApp.runtimeconfig.json
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\bin\Debug\net6.0\MeuApp.dll
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\bin\Debug\net6.0\MeuApp.pdb
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.dll
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\refint\MeuApp.dll
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.pdb
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\MeuApp.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\Curso.net\Test\MeuApp\obj\Debug\net6.0\ref\MeuApp.dll
